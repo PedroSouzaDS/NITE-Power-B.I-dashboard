@@ -11,4 +11,4 @@ As the file website dashboard NITE.pbix, was performed data preprocessing using 
 Reach and enjoy the Dashboard in:
 https://app.powerbi.com/view?r=eyJrIjoiZmFjOTk5ODUtYzg4YS00NWUxLWJkYjEtMWJmM2NlMDlmYWNmIiwidCI6ImY1MmU1OGMwLTc0ZWMtNGZhNS05M2UyLWVhZjI0NjdlZGI4ZiJ9&pageName=ReportSection
 
-In the institutional website https://nite.ufop.br/nite-em-n%C3%BAmeros soon as possible!!!
+Check in the institutional website: https://nite.ufop.br/nite-em-n%C3%BAmeros
